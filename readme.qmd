@@ -1,0 +1,9 @@
+---
+title: "my project"
+format: gfm
+---
+
+
+```{python}
+2+2
+```
